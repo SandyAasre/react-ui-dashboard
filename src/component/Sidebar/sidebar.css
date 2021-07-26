@@ -1,0 +1,12 @@
+.active{
+    border-radius: 50px 0px 0px 50px;
+    background-color:white;
+    
+}
+
+.active .MuiSvgIcon-root {
+    color:grey !important;
+}
+.active #CBiCalendar {
+    color:grey !important;
+}

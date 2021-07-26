@@ -1,0 +1,20 @@
+.theme-color {
+    background: #4678ed;
+  }
+  .theme-font {
+    font-size: 12px;
+  }
+  .theme-btn {
+    background-color: #23aaee;
+  }
+  .btn-shadowing {
+      -webkit-box-shadow: 8px 21px 25px 8px rgba(0,0,0,0.75);
+      -moz-box-shadow: 8px 21px 25px 8px rgba(0,0,0,0.75);
+      box-shadow: 8px 21px 25px 8px rgba(0,0,0,0.75);
+      
+  }
+  
+.custom-radius{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
